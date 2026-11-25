@@ -1,0 +1,7 @@
+sku,name,price,stock,category
+001,Travel mug,12.95,10,Kitchen
+002,,5.50,4,Kitchen
+,Desk lamp,24.99,2,Home
+003,Notebook,free,-1,Office
+003,Weekly planner,9.95,2.5,Office
+004,Pen set,,0,Office
